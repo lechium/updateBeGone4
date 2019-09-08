@@ -1,0 +1,12 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.PineBoard",
+			"com.apple.PineBoardServices",
+			"com.apple.TVSettingKit",
+			"com.apple.TVSettings",
+			"com.apple.TVPeripheralAgent",
+			"com.apple.CoreBluetooth",
+		);
+	};
+}

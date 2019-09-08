@@ -1,0 +1,10 @@
+Package: com.nito.updatebegone
+Name: updateBeGone
+Depends: 
+Version: 0.0.1
+Architecture: appletvos-arm64
+Description: Block your AppleTV from performing software updates.
+Maintainer: Kevin Bradley
+Author: Kevin Bradley
+Section: System
+Tag: role::hacker
